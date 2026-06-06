@@ -1,0 +1,7141 @@
+[
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 45,
+        "latend": 36,
+        "longstart": 7,
+        "longend": 47,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 36,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 21
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 21
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 20
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 21
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 21
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 48,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 21
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 50
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 50
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 20
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 50
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 20
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 50
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 20
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -83.52024,
+        "longend": -75.640433,
+        "thunderhours": 3
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 31
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 10.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 15
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 22
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 50
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 25
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 25
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -81,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -81,
+        "longend": -73,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 25,
+        "latend": 15,
+        "longstart": 1,
+        "longend": -59,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 3,
+        "latend": -10,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 12
+      },
+      {
+        "latstart": -10,
+        "latend": -44,
+        "longstart": -72,
+        "longend": -33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 15,
+        "latend": -13,
+        "longstart": -16,
+        "longend": 55,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 20,
+        "latend": -31,
+        "longstart": 18,
+        "longend": 31,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 55,
+        "latend": 36,
+        "longstart": 2,
+        "longend": 35,
+        "thunderhours": 8
+      },
+      {
+        "latstart": 55,
+        "latend": 23,
+        "longstart": 49,
+        "longend": 123,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 19,
+        "latend": 5,
+        "longstart": 72,
+        "longend": 89,
+        "thunderhours": 4
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": 106,
+        "longend": -90,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 46,
+        "latend": 23,
+        "longstart": -89.9,
+        "longend": -67,
+        "thunderhours": 9
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -77,
+        "longend": -72,
+        "thunderhours": 63
+      },
+      {
+        "latstart": 11,
+        "latend": 3,
+        "longstart": -72,
+        "longend": -56,
+        "thunderhours": 6
+      },
+      {
+        "latstart": -3,
+        "latend": -36,
+        "longstart": -64,
+        "longend": -28,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 14,
+        "latend": -17,
+        "longstart": -7,
+        "longend": 30,
+        "thunderhours": 6
+      },
+      {
+        "latstart": 54,
+        "latend": 46,
+        "longstart": 13,
+        "longend": 57,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 19,
+        "latend": -12,
+        "longstart": 96,
+        "longend": 154,
+        "thunderhours": 25
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 21
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 15
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 54,
+        "latend": 33,
+        "longstart": 1,
+        "longend": 147,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 40,
+        "longstart": -119,
+        "longend": -97,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 42,
+        "latend": 24,
+        "longstart": -97,
+        "longend": -69,
+        "thunderhours": 16
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 12,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 55,
+        "latend": 24,
+        "longstart": -100,
+        "longend": -73,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 22,
+        "latend": 6,
+        "longstart": -105,
+        "longend": -75,
+        "thunderhours": 31
+      },
+      {
+        "latstart": 11,
+        "latend": -27,
+        "longstart": -74,
+        "longend": -48,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 15,
+        "latend": -2,
+        "longstart": -17,
+        "longend": 33,
+        "thunderhours": 10
+      },
+      {
+        "latstart": 44,
+        "latend": 38,
+        "longstart": -1,
+        "longend": 41,
+        "thunderhours": 7
+      },
+      {
+        "latstart": 27,
+        "latend": -11,
+        "longstart": 66,
+        "longend": 153,
+        "thunderhours": 13
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -91.52024,
+        "longend": -75.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": 0,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 40
+      },
+      {
+        "latstart": 0,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 11
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 11
+      },
+      {
+        "latstart": 11.131262,
+        "latend": -28.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 18
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 22
+      },
+      {
+        "latstart": 35,
+        "latend": 22,
+        "longstart": 35,
+        "longend": 125,
+        "thunderhours": 4
+      }
+    ],
+    [
+      {
+        "latstart": 41.94102,
+        "latend": 21.55186,
+        "longstart": -96.52024,
+        "longend": -85.640433,
+        "thunderhours": 5
+      },
+      {
+        "latstart": 5.50425,
+        "latend": -11.7397,
+        "longstart": -77.27508,
+        "longend": -33.512333,
+        "thunderhours": 13
+      },
+      {
+        "latstart": -11.7398,
+        "latend": -33.07267,
+        "longstart": -81.587931,
+        "longend": -33.512333,
+        "thunderhours": 20
+      },
+      {
+        "latstart": -33.07268,
+        "latend": -43.770476,
+        "longstart": -81.587931,
+        "longend": -34.907667,
+        "thunderhours": 13
+      },
+      {
+        "latstart": 3.131262,
+        "latend": -35.408643,
+        "longstart": 7.98399,
+        "longend": 53.304066,
+        "thunderhours": 20
+      },
+      {
+        "latstart": 11.364358,
+        "latend": -18.986635,
+        "longstart": 94.592021,
+        "longend": 157.615185,
+        "thunderhours": 20
+      }
+    ]
+  ]
+]
