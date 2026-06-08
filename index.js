@@ -986,6 +986,8 @@ for (let i = 0; i < 24; i++) {
     popFunc = JSON.parse(pop)
     let current = ""
      }
+
+     ///call external function 24 times to set all hours' data
 const {background, icon, whichprec} = arranger(celsTempFunc, dailyPrecFunc, precipFunc, precipCmFunc, coverFunc, dailyRainCoverFunc, whichPrecArrFunc, whichPrecipFunc, precipProbFunc, precipTypeFunc, newRainArrayFunc, newRainArrayRelevant, hourlyRainFunc, fogFunc, snowFunc, snowDepthFunc, snowDepthRawFunc, snowDepthRawPlusFunc, thunderArrFunc, moonphaseFunc, climateFunc, seasonFunc, sunRiseEpochFunc, sunsetEpochFunc, latitudeFunc, longitudeFunc, givenDateFunc, dateTimeFunc, timeIndex, iconArr, backgroundArr, dailyMaxFunc, avgTempFunc, popFunc)
 
 backgroundArr[timeIndex] = background
