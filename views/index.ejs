@@ -1313,7 +1313,7 @@
           document.querySelector(".detailed").style.display = "flex"
           document.querySelector(".blur").style.display = "block"
           document.querySelector(".flagBack").style.display = "flex"
-          document.querySelector(".flagBack").style.backgroundImage = `url('./images/flags/` + flagLand + `.svg')`
+          document.querySelector(".flagBack").style.backgroundImage = `url('./images/flags/` + flagLand.toLowerCase() + `.svg')`
           let hou = document.querySelector("#dateic").innerText
           let houInd = ""
           hou.charAt(12) == ":" ? houInd = hou.slice(11,12) : houInd = hou.slice(11, 13)
@@ -1359,7 +1359,7 @@
             hourjump(null, ind)
             document.querySelector(".detailed").style.display = "flex"
             document.querySelector(".flagBack").style.display = "flex"
-            document.querySelector(".flagBack").style.backgroundImage = `url('./images/flags/` + flagLand + `.svg')`
+            document.querySelector(".flagBack").style.backgroundImage = `url('./images/flags/` + flagLand.toLowerCase() + `.svg')`
             document.querySelector(".hourDet").innerHTML = ind + ":00"
             
             }
@@ -2221,7 +2221,7 @@ let nextNeeded = ""
 
         document.querySelector("#cityloc").value = reqCity
         countryInput.value = reqCountry
-        document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${reqCountry}.svg')`
+        document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${reqCountry.toLowerCase()}.svg')`
                     countRes == "Nepal" ? null : document.querySelector(".flagicon").style.border = `0.5px solid rgb(170, 168, 168)`
       
                     }
