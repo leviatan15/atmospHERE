@@ -871,7 +871,6 @@ else if (longitude > -11 && longitude < 55 && latitude < 42 && latitude > 34 || 
 }
 
 
-
 else if (longitude > -124 && longitude < -96 && latitude < 60 && latitude > 18 || longitude > -70 && longitude < -66 && latitude >= -26 && latitude <= -28 || longitude > 44 && longitude < 47 && latitude < 12 && latitude > 9 || longitude > 48 && longitude < 86 && latitude < 52 && latitude > 37){
 climate = "4" ///félsivatag
 }
@@ -1067,6 +1066,8 @@ if (coverOfCloudsNow === "avg"){
 }
 tempFeelsNow = feelsArr[now]
 if (tempFeelsNow == "avg"){
+    let tempFeelsNowR = switchtoAvg(tempFeelsNow, resp2.data.days[0].feelslike)
+    tempFeelsNow = Math.round((tempFeelsNowR - 32) / 1.8)
 }
 arrowDirNow = arrowArr[now]
 dirTextNow = windDirTextArr[now]

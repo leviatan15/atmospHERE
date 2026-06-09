@@ -28,7 +28,11 @@ Interactive weather application built with:
 
 ## Screenshots + video
 
-(képek)
+atmospHERE\public\images\sc1.png
+atmospHERE\public\images\sc2.png
+
+https://youtu.be/Vx_YuWd50hg
+
 
 ## Installation/Usage
 
@@ -36,7 +40,7 @@ A: Run locally (requires own API key -> visualcrossing.com)
 
 1. Clone the repository
 git clone <repository-url>
-cd whenather
+cd atmospHERE
 2. Install dependencies
 npm install
 3. Create a .env file
@@ -49,7 +53,8 @@ node(mon) index.js
 
 B: Check out how it works (unlimited & free)
 
-1. open -> BEÍROM
+1. Open -> https://youtu.be/Vx_YuWd50hg
+2. Enjoy!
 
 ## Purpose
 
@@ -60,5 +65,5 @@ B: Check out how it works (unlimited & free)
 Copyright © 2026 Levente Tar
 Source code may not be redistributed without permission.
 
-if you have any questions, feel free to contact me:
+If you have any questions, feel free to contact me:
 tar.leviatan@gmail.com
