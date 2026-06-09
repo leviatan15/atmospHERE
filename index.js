@@ -165,7 +165,7 @@ let requestedCountry = ""
 ///changes " " to "_" in a name to find corresponding flag
 for (let i = 0; i < ToBeModifiedName.length; i++) {
     if (ToBeModifiedName[i] !== " ") {
-    requestedCountry += ToBeModifiedName[i]
+    requestedCountry += ToBeModifiedName[i].toLowerCase()
     }
     else {requestedCountry += "_"
     }
