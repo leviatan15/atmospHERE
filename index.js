@@ -161,13 +161,16 @@ const end = unixTimePlus
 const requestedCity = city
 let ToBeModifiedName = country
 let requestedCountry = ""
+let requestedCountry2 = ""
 
 ///changes " " to "_" in a name to find corresponding flag
 for (let i = 0; i < ToBeModifiedName.length; i++) {
     if (ToBeModifiedName[i] !== " ") {
     requestedCountry += ToBeModifiedName[i].toLowerCase()
+    requestedCountry2 += ToBeModifiedName[i]
     }
     else {requestedCountry += "_"
+        requestedCountry2 += "_"
     }
 }
 
@@ -1113,6 +1116,7 @@ res.render("index.ejs", {temp: celsTempNow,
                          reqCit: requestedCity,
                          reqCount: requestedCountry,
                          reqCount2: ToBeModifiedName,
+                         reqCount3: requestedCountry2,
                          reqLat: latitude,
                          reqLon: longitude,
                          reqDate: requestedDate,
