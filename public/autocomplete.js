@@ -125,7 +125,7 @@
                     countryInput.value = countRes
                    
 
-                    document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${countRes}.svg')`
+                    document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${countRes.toLowerCase()}.svg')`
                     countRes == "Nepal" ? null : document.querySelector(".flagicon").style.border = `0.5px solid rgb(170, 168, 168)`
                     
 
@@ -198,7 +198,7 @@
 
                 listCount = document.querySelectorAll(".flagplace").length
                 ///console.log(listCount)
-                document.querySelectorAll(".flagplace")[listCount - 1].style.backgroundImage = `url('./images/flags/${element.name}.svg')`
+                document.querySelectorAll(".flagplace")[listCount - 1].style.backgroundImage = `url('./images/flags/${element.name.toLowerCase()}.svg')`
                 element.name == "Nepal" ? leftDivM.style.border = "0px" : null
               }
 
