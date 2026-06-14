@@ -1570,15 +1570,18 @@ text-align: start;
 
 @media screen and (max-width: 768px) {
 
-  html{
+  html,
+  body{
   scrollbar-width: none;
  -ms-overflow-style: none;
   scroll-behavior: smooth;
   --webkit-overflow-scrolling: touch;
+  min-height: 780px
 } 
 
-  html::-webkit-scrollbar{
-    display: none
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar{
+  display: none
   }
 
     .text{
@@ -1591,10 +1594,11 @@ text-align: start;
 
   .bigContNew{
     height: 105vh;
+    width: 95vw
   }
 
   .bigContNew::before{
-    min-height: 800px;
+    min-height: 900px;
     display: flex;
     align-items: center
   }
@@ -1613,7 +1617,7 @@ text-align: start;
 }
 
 .calend {
-  left: 30%
+  left: 25%
 }
 
 .sub{
@@ -1640,7 +1644,7 @@ text-align: start;
 }
 
 .loc{
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   margin: 0px 10px 0px 7px ;
   text-align: center;
 }
