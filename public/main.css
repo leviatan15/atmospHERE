@@ -1576,7 +1576,7 @@ text-align: start;
  -ms-overflow-style: none;
   scroll-behavior: smooth;
   --webkit-overflow-scrolling: touch;
-  min-height: 780px
+  min-height: 790px
 } 
 
   html::-webkit-scrollbar,
@@ -1594,17 +1594,17 @@ text-align: start;
 
   .bigContNew{
     height: 105vh;
-    width: 95vw
   }
 
   .bigContNew::before{
     min-height: 900px;
     display: flex;
     align-items: center
+    
   }
 
   .downdata{
-    transform: translateX(-2px)
+    transform: translateX(-3px)
   }
 
 
