@@ -1607,6 +1607,10 @@ text-align: start;
     transform: translateX(-3px)
   }
 
+  .itRight{
+      margin-left: 85px;
+  }
+
 
 .contresp1{
   transform: translateY(20px);

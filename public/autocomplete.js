@@ -352,13 +352,13 @@
 
              else if (providedDateUnix > lastSecOfThePrevDay) {
                e.preventDefault()
-              document.querySelector(".error").innerHTML = "Date must not be newer than yesterday."
+              document.querySelector(".error").innerHTML = "Date must be older."
               document.querySelector(".error").style.display = "block"
              }
 
              else if (providedDateUnix < 86400) {
                e.preventDefault()
-              document.querySelector(".error").innerHTML = "Date must not be before than 1970-01-02."
+              document.querySelector(".error").innerHTML = "1970-01-02 and onwards."
               document.querySelector(".error").style.display = "block"
              }
 
