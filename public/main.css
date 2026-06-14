@@ -1,17 +1,24 @@
-body {background: linear-gradient(45deg, #030344, #2d3236, #141616) ;
+body,
+html {background: linear-gradient(45deg, #030344, #2d3236, #141616) ;
     animation: gradient-animation 10s ease infinite;
     background-size: 400% 400%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
+    width:100%;
     margin: 0px;
     will-change: transform;
     transform: translateZ(0);
     backface-visibility: hidden;
+    overflow-x:hidden;
   }
 
 .bigCont {
   position: relative;
   height: 100vh;
-  width: 100vw;
+  width: 100%;
+  max-width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -269,6 +276,8 @@ li {
   position: relative;
   height: 100vh;
   width: 100vw;
+  max-width: 2200px;
+  max-height: 1300px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -301,7 +310,7 @@ li {
   min-height: 500px;
   min-width: 500px;
   max-height: 950px;
-  background-color: rgb(0 0 0 / 0.4);
+  background-color: rgb(0 0 0 / 0.6);
   color: #fff;
   z-index: 1;
   border-radius: 50px;
@@ -336,27 +345,24 @@ li {
   z-index: 1;
   border: 1px solid rgba(255,255,255,0.1);
   border-radius: 50px;
-  display: none;
   text-align: center;
+  display: none;
   justify-content: center;
-  transform-style: preserve-3d;
   transform: rotateY(270deg);
   transition: transform 0.35s linear;
-  
+
 }
+
 
 .overscroll{
   height: 94%;
   width: 90%;
-  max-height: 650px;
+  max-height: 1080px;
   position: absolute;
-  display: none;
   justify-content: flex-start;
   overflow-y: hidden;
   overflow-x: hidden;
 }
-
-
 
 
 @media (max-width: 1360px){
@@ -538,7 +544,7 @@ option:hover{
   min-height: 400px;
   min-width: 4,1666%;
   flex-shrink: 0;
-  max-height: 650px;
+  max-height: 1000px;
 }
 
 .hourcard:hover{
@@ -558,7 +564,7 @@ option:hover{
   min-height: 550px;
   min-width: 97%;
   flex-shrink: 0;
-  max-height: 650px;
+  max-height: 1000px;
 }
 
 .calendar{
@@ -623,6 +629,8 @@ option:hover{
   margin-top: 10px;
   display: flex;
   flex-direction: column;
+  margin-bottom: 0px;
+
 }
 
 .clock{
@@ -638,7 +646,7 @@ option:hover{
 
 .tempgraph{
   position: absolute;
-  top: 220px;
+  top: 230px;
 }
 
 .sorry{
@@ -673,11 +681,11 @@ option:hover{
 }
 
 .iras{
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 4rem;
-  font-weight: bolder;
   margin-top: 32px;
   letter-spacing: -2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4rem;
+  font-weight: normal;
 }
 
 .warning{
@@ -712,14 +720,13 @@ option:hover{
 
 .globecont {
   position: relative;
+  top: 20px;
   display: flex;
   justify-content: center;
-  width: 130%;
-  height: 95%;
+  width: clamp(1200px, 100vw, 3000px);
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 50%;
-  margin: 20px 60px 10px 40px;
- 
 }
 
 .globecont::before {
@@ -785,6 +792,7 @@ align-items: center;
 .tria{
   position:absolute;
   transform: translateY(95px);
+  z-index: 30
 }
 
 
@@ -815,7 +823,7 @@ align-items: center;
  background:
   linear-gradient(
     180deg,
-    rgba(0,0,0,0.7),
+    rgba(4, 26, 33, 0.7),
     rgba(255,255,255,0.01)
   );
   backdrop-filter: blur(18px);
@@ -833,7 +841,7 @@ align-items: center;
   background:
     linear-gradient(
       135deg,
-      rgba(13, 60, 91, 0.289),
+      rgba(14, 61, 92, 0.229),
       rgba(255,255,255,0.02)
     );
 
@@ -946,61 +954,32 @@ transform: translateY(7px);
   margin-top: 10px
 }
 
-
 .coldblue {
   color: #339bd6;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .lightblue {
   color: #50ecfa;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .normalyellow {
   color: #daedb2;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .yellow {
   color: #dfed72;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .orange {
  color: #f7ca25;
- font-family: Arial, Helvetica, sans-serif;
- font-size: 4rem;
- font-weight: normal;
- margin-top: 32px
 }
 
 .redorange {
   color: #e37317;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .red {
   color: #fa3532;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 4rem;
-  font-weight: normal;
-  margin-top: 32px
 }
 
 .long {
@@ -1359,7 +1338,7 @@ margin-top: 10px
   height: 84%;
   width: 50%;
   z-index: 6;
-  background-color: rgb(0 0 0 / 0.91);
+  background-color: rgb(0 0 0 / 0.93);
   border-radius: 12px;
   border: 3px solid white;
   padding: 20px;
@@ -1378,7 +1357,7 @@ margin-top: 10px
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 2rem;
   font-weight: bolder;
-  color: rgba(25, 112, 206, 0.35);
+  color: #1968a8;
   border: 1px solid whitesmoke;
   text-align: center;
 }
@@ -1402,7 +1381,7 @@ margin-top: 10px
   font-size: 1.1rem;
   display: inline-flex;
   align-items: center;
-  margin-left: 75px;
+  margin-left: 85px;
   margin-right: 30px;
 }
 
@@ -1475,6 +1454,29 @@ display: none
     box-shadow: 0 0 15px rgba(87,255,143,0.4);
 }
 
+.more{
+  height: 6%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  left: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.moredet{
+  font-size: 1rem;
+  color: yellowgreen;
+  text-align: center;
+  margin-top: 5px;
+  width: 100px
+}
+
+.moredet:hover{
+cursor: pointer;
+text-decoration: underline;
+}
+
 @keyframes spin{
     from{
         transform: rotate(0deg);
@@ -1504,19 +1506,13 @@ footer{
   }
 
 
-  .globecont{
-    margin-right: 30px;
-    width: 350px;
-    height: 320px;
-  }
-
   #globe{
      margin-right:0px;
   }
 
 .detailed{
   width: 55%;
-  background-color: rgb(0 0 0);
+ background-color: rgb(0 0 0);
   overflow-x:hidden
 }
 
@@ -1535,7 +1531,7 @@ footer{
 
 .item{
   font-size: 1rem;
-  margin-left: 60px;
+  margin-left: 70px;
   margin-right: 20px;
   width: 40%
 }
@@ -1577,7 +1573,7 @@ text-align: start;
   html{
   scrollbar-width: none;
  -ms-overflow-style: none;
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
   --webkit-overflow-scrolling: touch;
 } 
 
@@ -1598,10 +1594,15 @@ text-align: start;
   }
 
   .bigContNew::before{
-    min-height: 1300px;
+    min-height: 800px;
     display: flex;
     align-items: center
   }
+
+  .downdata{
+    transform: translateX(-2px)
+  }
+
 
 .contresp1{
   transform: translateY(20px);
@@ -1609,6 +1610,10 @@ text-align: start;
   height: auto;
   min-width: 0px;
   max-height: 2000px;
+}
+
+.calend {
+  left: 30%
 }
 
 .sub{
@@ -1637,7 +1642,7 @@ text-align: start;
 .loc{
   font-size: 0.7rem;
   margin: 0px 10px 0px 7px ;
-  text-align: start;
+  text-align: center;
 }
 
 .loca{
@@ -1650,15 +1655,12 @@ text-align: start;
 }
 
 .data{
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
-.newqu{
-display: none
-}
-
+.newqu,
 .cross{
-  display: none
+ display: none
 }
 
 .newplus{
@@ -1686,10 +1688,13 @@ display: none
 }
 
 .iras{
-  font-size: 3rem;
-  transform: translateY(-30px)
+  font-size: 5rem;
+  transform: translateY(-20px)
 }
 
+.iconmain{
+  transform: translateY(20px)
+}
 
 .next{
   left: 75%;
@@ -1715,6 +1720,13 @@ display: none
   background-color: rgb(0 0 0)
 }
 
+.flag{
+  margin-top: 14px;
+  width:34px;
+  height: 25px;
+  min-width: 30px;
+}
+
 .flagBack{
   margin-top: 40px;
   width: auto;
@@ -1723,7 +1735,12 @@ display: none
 
 .item{
   width: 80%;
-  margin-left: 90px;
+  margin-left: 100px;
+  transform: translateY(30px)
+}
+
+.hourDet{
+   transform: translateX(-30px)
 }
 
 .sticky{
@@ -1757,14 +1774,94 @@ display: none
 .overscroll{
 scrollbar-width: none;
  -ms-overflow-style: none;
-    scroll-behavior: smooth;
-  --webkit-overflow-scrolling: touch;
+scroll-behavior: smooth;
+--webkit-overflow-scrolling: touch;
 } 
 
   .overscroll::-webkit-scrollbar{
     display: none
   }
 }
+@media screen and (min-width: 1750px) {
+  .iras{
+    font-size: 6rem;
+  }
+  .data{
+    font-size: 2.4rem;
+  }
+  .formContNew{
+    width: 78%
+  }
+  .datalab{
+    font-size: 1.4rem;
+  }
+  .mid{
+    width: 90px;
+    height: 40px;
+  }
+  .moredet{
+    font-size: 1.5rem;
+  }
+  .houricon{
+    width: 90px;
+    height: 85px;
+    right: 8.5px
+  }
+  .hourdegree{
+    font-size: 2rem
+  }
+  .clock{
+    font-size: 1rem
+  }
+  .item{
+    font-size: 1.5rem;
+    margin-left: 100px
+  }
+  .iconmain{
+    width: 250px;
+    height: 250px;
+    background-size: 250px;
+    top: 20px
+  }
+  .mask{
+    width: 1000px;
+    height: 1000px;
+    top: 0px
+  }
+
+  .tria{
+    transform: translateY(170px)
+  }
+}
+
+@media screen and (min-width: 2050px) {
+.houricon{
+    width: 100px;
+    height: 95px;
+    right: 9px
+  }
+}
+
+@media screen and (min-height: 850px) and (min-width: 1000px) {
+
+
+  .data{
+    margin-top: 40px
+  }
+
+
+.formContNew{
+  height: 96%
+}
+.tempgraph{
+  top: 400px
+  }
+  .bot{
+    width: 80px;
+    height: 90%
+  }
+}
+
 
  .itemText{
   color: #2ccf79;
@@ -1773,7 +1870,7 @@ scrollbar-width: none;
 }
 
 .itemRes{
-    color: #d2eb34;
+ color: #d2eb34;
 }
 
 
@@ -1801,28 +1898,6 @@ scrollbar-width: none;
   right: 0;
 }
   
-.more{
-  height: 6%;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  position: relative;
-  left: 12px;
-  display: flex;
-  justify-content: center;
-}
-
-.moredet{
-  font-size: 1rem;
-  color: yellowgreen;
-  text-align: center;
-  margin-top: 5px;
-  width:100px
-}
-
-.moredet:hover{
-cursor: pointer;
-text-decoration: underline;
-}
 
 .winddir{
   align-items: center;
@@ -1948,11 +2023,12 @@ border: 0px
 }
 
 #newse{
-  top: 100px;
+  top: 150px;
   position: absolute;
   display: none;
-  min-width: 25%;
+  min-width: 320px;
   height: 1%;
+  max-height: 500px;
   z-index: 7;
   background: linear-gradient(45deg, #030344, #2d3236, #141616);
   animation: gradient-animation 10s ease infinite;

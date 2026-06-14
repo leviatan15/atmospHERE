@@ -8,6 +8,14 @@ const earth = document.getElementById('globe');
 const globe = Globe()(earth)
   .width(earth.clientWidth)
   .height(earth.clientHeight)
+
+  const resizeGlobe = () => {
+    globe
+        .width(earth.clientWidth)
+        .height(earth.clientHeight);
+};
+
+window.addEventListener("resize", resizeGlobe);
  
 
 globe.globeImageUrl('https://unpkg.com/three-globe/example/img/earth-dark.jpg');
@@ -15,13 +23,13 @@ globe.globeImageUrl('https://unpkg.com/three-globe/example/img/earth-dark.jpg');
 globe.backgroundColor('rgba(0,0,0,0)');
 
 globe.atmosphereColor('cyan');
-globe.atmosphereAltitude(0.2);
+globe.atmosphereAltitude(0.15);
 
 globe.scene().add(
   new THREE.AmbientLight(0x0a548a, 5)
 );
 
-globe.controls().minDistance = 120;
+globe.controls().minDistance = 220;
 globe.controls().maxDistance = 330;
 
 globe.controls().autoRotate = true;
@@ -48,14 +56,14 @@ globe.controls().autoRotateSpeed = 0.3
     });
 
     
-      document.querySelector(".globecont").style.width = "270px"
-      document.querySelector(".globecont").style.height = "290px"
+      ///document.querySelector(".globecont").style.width = "420px"
+      ///document.querySelector(".globecont").style.height = "400px"
     
 
   
-     document.querySelector(".globecont").style.transform = "translateX(30px)"
-     document.querySelector(".globecont").style.transform = "translateY(20px)"
-     earth.style.transform = "translateY(-20px)"
+     ///document.querySelector(".globecont").style.transform = "translateX(30px)"
+     ///document.querySelector(".globecont").style.transform = "translateY(20px)"
+     ///earth.style.transform = "translateY(-20px)"
  
      globe.pointsData([
   {
@@ -80,8 +88,6 @@ globe.ringsData([
 .ringAltitude(0.03)
 
 
-
-  
  globe.pointOfView(
   {
     lat: lat,
