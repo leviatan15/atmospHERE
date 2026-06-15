@@ -5,6 +5,7 @@ console.log(JSON.stringify(requestedCountry))
 
 const earth = document.getElementById('globe');
 
+if(window.innerWidth >= 768) {
 const globe = Globe()(earth)
   .width(earth.clientWidth)
   .height(earth.clientHeight)
@@ -55,15 +56,6 @@ globe.controls().autoRotateSpeed = 0.3
   
     });
 
-    
-      ///document.querySelector(".globecont").style.width = "420px"
-      ///document.querySelector(".globecont").style.height = "400px"
-    
-
-  
-     ///document.querySelector(".globecont").style.transform = "translateX(30px)"
-     ///document.querySelector(".globecont").style.transform = "translateY(20px)"
-     ///earth.style.transform = "translateY(-20px)"
  
      globe.pointsData([
   {
@@ -96,11 +88,5 @@ globe.ringsData([
 15000
 )
 
-  /*function stop(){
-    globe.controls().autoRotate = false
-  }*/
-
-
-///setTimeout(zoom, 15000)
-///setTimeout(stop, 25000)
+}
 

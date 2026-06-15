@@ -1,3 +1,4 @@
+            /// #1 autocomplete for city input field
             cityInput.addEventListener("input", () => {
             
             firstQuery = false 
@@ -140,6 +141,7 @@
 
           })
 
+          ///#2 autocomplete for country input field
           countryInput.addEventListener("input", () => {
 
             completedValueCountry = false
@@ -240,7 +242,7 @@
                   }
 
                   countryInput.value = targ
-                  document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${targ}.svg')`
+                  document.querySelector(".flagicon").style.backgroundImage = `url('./images/flags/${targ.toLowerCase()}.svg')`
                   targ == "Nepal" ? null : document.querySelector(".flagicon").style.border = `0.5px solid rgb(170, 168, 168)`
                 })
               })
@@ -248,6 +250,8 @@
           })
          
          
+
+          ///#3 validation for date input field
              dateInput.addEventListener("keydown" , (e) => {e.key === "Backspace" ? ascend = false : ascend = true
               e.key === "-" ? e.preventDefault() : null
             }
