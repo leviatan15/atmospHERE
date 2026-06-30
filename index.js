@@ -561,7 +561,7 @@ hoursReal.forEach(hour => {
 let sunRiseEpoch = resp2.data.days[0].sunriseEpoch
 let sunSetEpoch = resp2.data.days[0].sunsetEpoch
 
-///Sometimes rain is not distributed in a realistic way by the API's servers, instead it accumumulates the total daily rain as one specific hour's data. To this I set up a calculator, to pull it closer to reality.
+///Sometimes rain is not distributed in a realistic way by the API's servers, instead it accumumulates the total daily rain as one specific hour's data. To fix this I set up a calculator algorythm, to pull it closer to reality.
 
 let newRainArray = []
 let thunderArray = []
@@ -784,13 +784,10 @@ Math.round(totalWind += windArr[i] * 10)
 avgWind = (totalWind/10)/24
 
 for (let i = 0; i < 24; i++) {///If there was significantly stronger wind than daily average (refers to storm)
-    if (avgWind - windArr[i] < -15 && resp2.data.days[0].hours[i].cloudcover > 60 && toBeGivenThunder > 0){
+    if (avgWind - windArr[i] < -15 && resp2.data.days[0].hours[i].cloudcover > 60 && toBeGivenThunder > 0 && parseInt(dailyAvgTemp) > 17){
      thunderArray[i] = "thunder"
      toBeGivenThunder--
     }  
-    else if (avgWind - windArr[i] < -15 && resp2.data.days[0].hours[i].cloudcover > 80 && toBeGivenThunder === 0){
-        thunderArray[i] = "thunder"
-       }  
  }
 
  if (thunderArray[now] === "thunder"){

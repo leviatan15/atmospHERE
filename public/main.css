@@ -77,7 +77,7 @@ input {
   border-color: none;
   opacity: 1;
   margin: 5px;
-  padding: 12px 10px 12px 10px;
+  padding: 12.8px 10px 12px 10px;
 }
 
 
@@ -215,7 +215,7 @@ svg {
   height: 18px;
   width: 24px;
   transform: translateY(-50%);
-  top: 51px;
+  top: 52px;
   left: 20px;
   border-radius: 3px;
   background-size: cover;
@@ -1661,7 +1661,7 @@ text-align: start;
   justify-content: center;
   margin-left: 0px;
   text-align: start;
-  align-items: start;
+  align-items: end;
   margin-right: 10px;
 }
 
@@ -1887,6 +1887,7 @@ align-items: center;
   }
 }
 
+
  .itemText{
   color: #2ccf79;
   margin-right: 5px;
@@ -1965,6 +1966,7 @@ border: 0px
   height: 60px;
   position: absolute;
   padding-top: 3px;
+  z-index: 7
 }
 
 #nextday{
@@ -2086,4 +2088,20 @@ border: 0px
   position: absolute;
   color: red;
   transform: translateY(250px);
+}
+
+.foot{
+  font-family: 'Poppins',sans-serif;
+}
+
+@media (min-width: 2200px){
+  .bigContNew{
+    background: none;
+  }
+}
+
+@media screen and (min-height: 1000px) and (max-width: 1500px){
+  .formContNew{
+    max-height: 800px
+  }
 }

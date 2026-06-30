@@ -83,6 +83,7 @@
                     completedValueCountry = true
                     greenefy == true ? cityInput.style.border = "4px solid #48d945" : null
                     greenefy == true ? countryInput.style.border = "4px solid #48d945" : null
+                    document.querySelector(".flagicon").style.top = "52px"
                     document.querySelector(".error").innerHTML = ""
                     while (ul.firstChild) {
                       ul.removeChild(ul.firstChild)
@@ -216,6 +217,7 @@
                 element.addEventListener("click", (e) => {
                   completedValueCountry = true
                   greenefy == true ? countryInput.style.border = "4px solid #48d945" : null
+                  document.querySelector(".flagicon").style.top = "52px"
                   document.querySelector(".error").innerHTML = ""
                   while (ul2.firstChild) {
                     ul2.removeChild(ul2.firstChild)
@@ -331,18 +333,24 @@
               document.querySelector(".error").innerHTML = "Please fill in all required fields."
               document.querySelector(".error").style.display = "block"
 
-              if (document.querySelector("#cityloc").value == "" || completedValueCity == false ) {
+              if (document.querySelector("#cityloc").value == "" || completedValueCity == false) {
                 document.querySelector("#cityloc").style.border = "4px solid red"
+                document.querySelector(".flagicon").style.top = "50px"
+                document.querySelector(".flagicon").style.left = "22px"
                 greenefy = true
               }
               else { document.querySelector("#cityloc").style.border = "none" }
               if (document.querySelector("#countryloc").value == "" || completedValueCountry == false) {
                 document.querySelector("#countryloc").style.border = "4px solid red"
+                document.querySelector(".flagicon").style.top = "50px"
+                document.querySelector(".flagicon").style.left = "22px"
                 greenefy = true
               }
               else { document.querySelector("#countryloc").style.border = "none" }
               if (document.querySelector("#date").value == "") {
                 document.querySelector("#date").style.border = "4px solid red"
+                document.querySelector(".flagicon").style.top = "50px"
+                document.querySelector(".flagicon").style.left = "22px"
                 greenefy = true
               }
               else { document.querySelector("#date").style.border = "none" }
