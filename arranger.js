@@ -1,42 +1,42 @@
+///function that arranges backgrounds and icons for each hour.
+
 export function arranger (tmp, dailypr, prec, precm, cov, dailyraincov, whicprarr, whichpr, precippr, precty, newrainar, newrainarre, hourlyra, fg, sn, sndept, sndeptR, sndeptRP, thunAr, moonp, cli, ses, sris, suns, lt,lg, dat, dateti, tmi, icar, bacar, maxTemp, dailyAvg, ppl) {
 
-   ///szél
-   /// 1-20 Észak, 21-69 Északkelet, 70-110 Kelet, 111-159 Délkelet, 160-200 Dél, 201-249 Délnyugat, 250-290 Nyugat, 291-339 Északnyugat, 340-360 Észak
+   ///wind
+   /// 1-20 North, 21-69 Northeast, 70-110 East, 111-159 Southeast, 160-200 South, 201-249 Southwest, 250-290 West, 291-339 Northwest, 340-360 North
    
-
-
-console.log("NEWRAINARRAYRELEVANT? " + newrainarre)
-console.log("NEWRAINARRAY: " + newrainar)
+///console.log("NEWRAINARRAYRELEVANT? " + newrainarre)
+///console.log("NEWRAINARRAY: " + newrainar)
    let cliCurr = cli
    let sesCurr = ses
 
 
 function coverofclouds(cc) {
 if (cov <= 10){
-    cc = "1" ///napos   
+    cc = "1" ///sunny
 }
 else if(cov > 10 && cov < 31){
-    cc = "2" ///enyhén felhős
+    cc = "2" ///partly cloudy
 }
 else if(cov >= 31 && cov < 67){
-    cc = "3" ///közepesen felhős
+    cc = "3" ///average cloudy
 }
 else if(cov >= 67 && cov < 90){
-    cc = "4"  /// erősen felhős
+    cc = "4"  /// mostly cloudy
 }
 else if(cov >= 90){
-    cc = "5" ///teljesen felhős
+    cc = "5" ///fully cloudy
 }
 return cc }
 
-///ikonok
+///icons
 let dayOrnight = ""
 let coverOfClouds = ""
 let rain = ""
 let thunder = "0"
 let counter2 = false
 
-//#1 nap vagy éjszaka
+//#1 day or night
 if (dat > sris - 3600 && dat < suns + 3600){
     dayOrnight = "1" ///day
 }
@@ -73,7 +73,7 @@ coverOfClouds = coverofclouds(coverOfClouds)
 }
 }
 
-else {///eső
+else {///rain
 
    coverOfClouds = coverofclouds(coverOfClouds)
    hourlyra === 0 ? rain = "0" : null
@@ -83,7 +83,7 @@ else {///eső
     
 
     if (newrainarre == false){ ///at least 6 hours of 24 measured rain, or no rain
-    console.log("New rain array is not relevant.")
+    ///console.log("New rain array is not relevant.")
       parseInt(hourlyra) === 0 ? rain = "0" : null
 
 
@@ -104,24 +104,24 @@ else {///eső
         coverOfClouds = "5"
     }
 }
-///itt jön a baj (ha kevesebb a 6nál a mért napi csapadékóra + sok a napi összes csapadék, akkor gyanús hogy nem helyesen elosztva mért az állomás, hanem egy órához beírta az értékek nagy részét)
+///Sometimes rain is not distributed in a realistic way by the API's servers, instead it accumulates the total daily rain as one specific hour's data. To fix this I set up a calculator algorythm, to pull it closer to reality.)
 else if (newrainarre == true){
     if (newrainar[tmi] === "heavyrain"){
-        coverOfClouds = "5"///teljesen felhős
+        coverOfClouds = "5"///fully cloudy
         rain = "3"///heavy rain
         cov < 50 ? coverOfClouds = "4" : null
     }
 
-///feltétel
+///condition
 else if (newrainar[tmi] === "moderaterain"){
-    coverOfClouds = "5" ///teljesen felhős
+    coverOfClouds = "5" ///fully cloudy
     rain = "2" ///moderate rain
     cov < 50 ? coverOfClouds = "4" : null
 }
 
 ///feltétel
 else if (newrainar[tmi] === "smallrain"){
-    coverOfClouds = "5" ///teljesen felhős
+    coverOfClouds = "5" ///fully cloudy
     rain = "1" ///small rain
     cov < 80 && cov >= 55 ? coverOfClouds = "4" : null
     cov < 55 ? coverOfClouds = "3" : null
@@ -131,7 +131,6 @@ else if (newrainar[tmi] === "nothing"){
 rain = "0"
 }
 
-///feltétel
 }
 }
 
@@ -179,20 +178,20 @@ moon = "0"
   ///rain-> 4: snowrain  5: smallsnow  6: heavysnow
 
 
-///háttér
+///background
 let precType = ""
 let snowCover = ""
 let newCoverOfClouds = ""
 
 
-parseFloat(sndept) > 0.5 ? snowCover = "1" : snowCover = "0" ///van snow/nincs snow
+parseFloat(sndept) > 0.5 ? snowCover = "1" : snowCover = "0" /// is there snow, or there isn't
  
 
 if (cli == "2" || cli == "9"){
 if (snowCover == "0"){
 if (dateti.charAt(6) == "1" && dateti.charAt(5) !== "1" ||  dateti.charAt(6) == "2"){
-    sesCurr = "1" ///tél
-    lt < 0 ? sesCurr = "3" : null ///déli félgömb nyár
+    sesCurr = "1" ///winter
+    lt < 0 ? sesCurr = "3" : null ///south hemisphere summer
   
     if (rain !== "0"){
     if (whichPrecip === "snow"){
@@ -206,33 +205,33 @@ if (dateti.charAt(6) == "1" && dateti.charAt(5) !== "1" ||  dateti.charAt(6) == 
     }
 }
 else if (dateti.charAt(6) == "3" || dateti.charAt(6) == "4"  || dateti.charAt(6) == "5"){
-    sesCurr = "2" ///tavasz
+    sesCurr = "2" ///spring
 
-    dailyAvg <= 9 && dateti.charAt(6) !== "5" ? sesCurr = "1" : null///mégis tél
-    lt < 0  && maxTemp >= 21 && dailyAvg > 20 ? sesCurr = "3": null ///déli félgömb nyár
-    lt < 0  && maxTemp < 21 && dailyAvg <= 20 ? sesCurr = "4": null ///déli félgömb ősz
+    dailyAvg <= 9 && dateti.charAt(6) !== "5" ? sesCurr = "1" : null///still winter
+    lt < 0  && maxTemp >= 21 && dailyAvg > 20 ? sesCurr = "3": null ///south hemisphere summer
+    lt < 0  && maxTemp < 21 && dailyAvg <= 20 ? sesCurr = "4": null ///south hemisphere autumn
 }
 else if (dateti.charAt(6) == "6" || dateti.charAt(6) == "7" || dateti.charAt(6) == "8"){
-sesCurr = "3" ///nyár
-    lt < 0 ? sesCurr = "1" : null ///déli félgömb tél
+sesCurr = "3" ///summer
+    lt < 0 ? sesCurr = "1" : null ///south hemisphere winter
 }
 else if (dateti.charAt(6) == "9" || dateti.charAt(6) == "0" || dateti.charAt(6) == "1" && dateti.charAt(5) == "1"){
-    sesCurr = "4" ///ősz
-    maxTemp >= 21 && dailyAvg > 20 && dateti.charAt(6) !== "1" ? sesCurr = "3" : null///mégis nyár
-    lt < 0 && maxTemp < 10 && dailyAvg <= 8  ? sesCurr = "1" : null //déli félgömb tél
-    lt < 0 && maxTemp >= 10 && dailyAvg > 8  ? sesCurr = "2" : null //déli félgömb tavasz
+    sesCurr = "4" ///fall
+    maxTemp >= 21 && dailyAvg > 20 && dateti.charAt(6) !== "1" ? sesCurr = "3" : null///still summer
+    lt < 0 && maxTemp < 10 && dailyAvg <= 8  ? sesCurr = "1" : null //south hemisphere winter
+    lt < 0 && maxTemp >= 10 && dailyAvg > 8  ? sesCurr = "2" : null //south hemisphere spring
 }
 console.log("current season is: " + sesCurr)
 }
-  lg < -30 && lg > -55 && lt > -24 && lt < -11 ? sesCurr = "3" : null///mindig nyár
+  lg < -30 && lg > -55 && lt > -24 && lt < -11 ? sesCurr = "3" : null///endless summer
 }
 
-if (cli == "3"){///mediterrán
+if (cli == "3"){///mediterranean
     if (parseFloat(sndept) > 0.0 || parseInt(rain) >= 6){
         cliCurr = "0"
     }parseFloat(sndept) > 0.0 ? snowCover = "1" : snowCover = "0" 
 
-     maxTemp < 10 && dailyAvg <= 8 ? sesCurr = "1" : null///mégis tél
+     maxTemp < 10 && dailyAvg <= 8 ? sesCurr = "1" : null///still winter
     }
 
     if (parseInt(coverOfClouds) < 3){
@@ -244,6 +243,7 @@ if (cli == "3"){///mediterrán
     else if (parseInt(coverOfClouds) >= 5){
         newCoverOfClouds = "3"
     }
+
 
 
 if (parseInt(rain) == 0){
@@ -318,6 +318,7 @@ const iconToGive = dayOrnight + coverOfClouds + rain + thunder + isFog + moon
 
     let backgroundToGive = cliCurr + sesCurr + dayOrnight + precType + snowCover + newCoverOfClouds + isFog + thunder
 
+    ///edge case -> change of background
     cliCurr === "3" && parseInt(ppl) > 200000 && backgroundToGive === "30100100" ? backgroundToGive = "100100100" : null
     bacar[tmi] = backgroundToGive
     console.log("currentbackground: " + backgroundToGive)

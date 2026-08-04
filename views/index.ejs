@@ -10,6 +10,7 @@
 </head>
 
 <body>
+  <div class="majorcont">
   <% if (!locals.temp && !locals.hum) { %>
     <div class="bigCont">
 
@@ -145,7 +146,7 @@
         <div id="newse" class="newsearch">
 
 
-          <form  autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="myForm" method="post">
+          <form autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="myForm" method="post">
 
             <div class="calend">
 <div class="seldiv">
@@ -1752,7 +1753,7 @@ for (let i = 0; i < 24; i++) {
               parseFloat(precipList[i]) > 1.2 && parseFloat(precipList[i]) <= 3 ? top = "79.5%" : null
 
               parseFloat(precipList[i]) > 3 && parseFloat(precipList[i]) <= 8 ? height = "14.8%" : null
-              parseFloat(precipList[i]) > 3 && parseFloat(precipList[i]) <= 8 ? top = "73.4%" : null
+              parseFloat(precipList[i]) > 3 && parseFloat(precipList[i]) <= 8 ? top = "73.7%" : null
 
               parseFloat(precipList[i]) > 8 ? height = "20.3%" : null
               parseFloat(precipList[i]) > 8 ? top = "67.9%" : null
@@ -1781,7 +1782,8 @@ for (let i = 0; i < 24; i++) {
           
             currentBar === "snow" ? precVal.style.color = "#1597b3" : null
             currentBar === "snow" ? precVal.style.fontWeight = "bolder" : null
-
+            
+            height === "2.4%" ? precVal.style.marginTop = "0px" : null
             height === "4.1%" ? precVal.style.marginTop = "6px" : null
             height === "5.8%" ? precVal.style.marginTop = "16px" : null
             height === "9%" ? precVal.style.marginTop = "11px" : null
@@ -2279,6 +2281,6 @@ let nextNeeded = ""
       <script src="https://unpkg.com/three@0.149.0/build/three.min.js"></script>
       <script src="https://unpkg.com/globe.gl@2.27.2/dist/globe.gl.min.js"></script>
       <script src="/globe.js"></script>
-      
+    </div>
 </body>
 </html>

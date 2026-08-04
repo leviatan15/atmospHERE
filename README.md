@@ -24,7 +24,7 @@ Interactive weather application built with:
 - Responsive design
 - Input validation
 - Autocomplete search
-- Tech Stack
+- Custom CSS
 
 ## Screenshots + video
 
@@ -53,13 +53,13 @@ node(mon) index.js
 
 B: Check out how it works (unlimited & free)
 
-1. Open -> https://youtu.be/Vx_YuWd50hg
+1. Open -> https://atmosphere-3czw.onrender.com/
 2. Enjoy!
 
 ## Purpose
 
 1. Make easier to access historical weather data for everyone.
-2. Personal portfolio project.
+2. Personal development project.
 
 
 Copyright © 2026 Levente Tar

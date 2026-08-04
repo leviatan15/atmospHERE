@@ -56,8 +56,8 @@ if (req.url === "/getweather" && req.body.date){
     unixTimePlus = unixTime + 86400
     console.log("the unix time is: " + unixTime)
     console.log("timeindex is: " + timeIndex)
-   
     }
+
     else if (req.body.date !== "" && req.body.time !== ""){
         console.log(req.body.date + " " + req.body.time)
         unixTime = Math.floor(new Date(req.body.date + " " + req.body.time).getTime() / 1000)
@@ -104,13 +104,13 @@ app.post("/getweather", async (req, res) => {
         let strictLeft = false
         let strictRight = false
 
-        ///if user requests data from input fields
+        /// 1# if user requests data from input fields
         if (req.body.city && req.body.country){
             city = req.body.city
             country = req.body.country
         }
 
-        ///if user requests data from stepping hours to previous/next days
+        /// 2# if user requests data from stepping hours to previous/next days
         else if (req.body.mode === "strict"){
            let cityRaw = req.body.citynext
            let countryRaw = req.body.countrynext
@@ -178,14 +178,14 @@ let requestedDate = ""
 let requestedTime = ""
 
 
-///if user requests data from input fields
+/// #1 if user requests data from input fields
 if (req.body.city && req.body.country){
     requestedDate = req.body.date
     req.body.time !== "" ? requestedTime = req.body.time : requestedTime = "13:00"
     daysOver(requestedDate)
 }
 
- ///if user requests data from stepping hours to previous/next days
+ /// #2 if user requests data from stepping hours to previous/next days
 else if (req.body.mode === "strict"){
 
     requestedDate = req.body.datenext
@@ -287,7 +287,7 @@ let datechk = new Date()
         else {modArr.push(value)}
     })}
 
-    let inchTransform = (origArr, modArr) => {/// ///transforms to metric system (cm + mm)
+    let inchTransform = (origArr, modArr) => {///transforms to metric system (cm + mm)
          origArr.forEach(value => {
         if (value !== "avg" && value !== "-no data-"){
             let S = ((value * 2.54) * 10).toFixed(1)
@@ -561,7 +561,7 @@ hoursReal.forEach(hour => {
 let sunRiseEpoch = resp2.data.days[0].sunriseEpoch
 let sunSetEpoch = resp2.data.days[0].sunsetEpoch
 
-///Sometimes rain is not distributed in a realistic way by the API's servers, instead it accumumulates the total daily rain as one specific hour's data. To fix this I set up a calculator algorythm, to pull it closer to reality.
+///Sometimes rain is not distributed in a realistic way by the API's servers, instead it accumulates the total daily rain as one specific hour's data. To fix this I set up a calculator algorythm, to pull it closer to reality.
 
 let newRainArray = []
 let thunderArray = []
@@ -603,6 +603,8 @@ inchTransform(precRawArr, precArr)
 
 
 dailyRainCover >= 25 || dailyRainCover == 0 ? newRainArrayRelevant = false : null
+
+console.log("newra:" + newRainArrayRelevant)
 
     let totalTemp = 0
     let avgTemp = 0
